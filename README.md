@@ -20,7 +20,7 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2
 [![X](https://img.shields.io/badge/X-@ikercodes-00aced.svg?style=flat&logo=twitter)](https://x.com/ikercodes)
 [![Resume](https://img.shields.io/badge/Website-Iker_Codes-5087B2.svg?style=flat&logo=telegram)](http://ikercodes.com/)
 
-I'm Iker, Senior Software Engineer with more than 5 years of experience, these are all the languages, frameworks, libraries, OS, DBs and platforms I have used over the years and most importantly, liked and continue using:
+I'm Iker, Senior Software Engineer with more than 5 years of experience, these are all the languages, frameworks, libraries, DBs, tools and platforms I have used over the years and most importantly, liked and continue using:
 
 #### Backend work for low-latency servers:
 
@@ -38,13 +38,11 @@ I'm Iker, Senior Software Engineer with more than 5 years of experience, these a
 
 #### Front-end:
 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
 
@@ -55,6 +53,7 @@ I'm Iker, Senior Software Engineer with more than 5 years of experience, these a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 #### Scripting, Operating Systems and others:
 
@@ -62,9 +61,15 @@ I'm Iker, Senior Software Engineer with more than 5 years of experience, these a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
+
+#### Mobile Development:
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+
 
 #### And this is a miscelanea of softwares I use in my day to day:
 
