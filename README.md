@@ -20,7 +20,7 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2
 [![X](https://img.shields.io/badge/X-@ikercodes-00aced.svg?style=flat&logo=twitter)](https://x.com/ikercodes)
 [![Resume](https://img.shields.io/badge/Website-Iker_Codes-5087B2.svg?style=flat&logo=telegram)](http://ikercodes.com/)
 
-I'm Iker, Senior Software Engineer with more than 5 years of experience, these are all the languages, frameworks, libraries, DBs, tools and platforms I have used over the years and most importantly, liked and continue using:
+I'm Iker, Software Engineer with more than 5 years of experience, these are all the languages, frameworks, libraries, DBs, tools and platforms I have used over the years and most importantly, liked and continue using:
 
 #### Backend work for low-latency servers:
 
