@@ -45,7 +45,7 @@ I'm Iker, Software Engineer with more than 5 years of experience, these are all 
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
 
-#### Deployment, architecture and infrastucture of applications:
+#### Cloud, DevOps, Deployment, architecture and infrastucture of applications:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
